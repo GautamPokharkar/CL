@@ -267,5 +267,3 @@
 
 7. **What is environment in Beanstalk?**
    Collection of AWS resources running the app.
-
-Source file: 
